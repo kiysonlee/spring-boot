@@ -1,4 +1,4 @@
-package com.kiyson.boot.config.mybatis;
+package com.kiyson.boot.config.datasource;
 
 
 import org.apache.ibatis.session.SqlSessionFactory;
